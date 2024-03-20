@@ -10,7 +10,7 @@ class Employee{
 		this.ID=nextId++;
 	}
 	public void show() {
-		System.out.println("Id= "+ID+"\nName= "+name+ "\nAge= "+age);
+		System.out.println("Id= "+ID+"\nName= "+ name + "\nAge= "+ age );
 	}
 	public void shownextId() {
 		System.out.println("Next employee id will be= "+ nextId);
