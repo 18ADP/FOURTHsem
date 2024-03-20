@@ -20,20 +20,20 @@ public class Garbage_Collection1 {
 
 	public static void main(String[] args) {
 		Employee E=new Employee("Raghu",56);
-		Employee F=new Employee("Faghu",46);
-		Employee G=new Employee("Maghu",36);
 		E.show();
-		F.show();
-		G.show();
 		E.shownextId();
+		Employee F=new Employee("Faghu",46);
+		F.show();
 		F.shownextId();
+		Employee G=new Employee("Maghu",36);
+		G.show();
 		G.shownextId();
 		{
 			Employee X=new Employee("Jaggu",16);
-			Employee Y=new Employee("Chuggu",26);
 			X.show();
-			Y.show();
 			X.shownextId();
+			Employee Y=new Employee("Chuggu",26);
+			Y.show();
 			Y.shownextId();
 		}
 		E.shownextId();
@@ -46,22 +46,21 @@ public class Garbage_Collection1 {
 //Id= 1
 //Name= Raghu
 //Age= 56
+//Next employee id will be= 2
 //Id= 2
 //Name= Faghu
 //Age= 46
+//Next employee id will be= 3
 //Id= 3
 //Name= Maghu
 //Age= 36
 //Next employee id will be= 4
-//Next employee id will be= 4
-//Next employee id will be= 4
 //Id= 4
 //Name= Jaggu
 //Age= 16
+//Next employee id will be= 5
 //Id= 5
 //Name= Chuggu
 //Age= 26
 //Next employee id will be= 6
 //Next employee id will be= 6
-//Next employee id will be= 6
-
