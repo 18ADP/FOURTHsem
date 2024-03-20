@@ -43,6 +43,19 @@ public class Garbage_Collection1 {
 
 }
 //OUTPUT:
+//Id= 1
+//Name= Raghu
+//Age= 56
+//Id= 2
+//Name= Faghu
+//Age= 46
+//Id= 3
+//Name= Maghu
+//Age= 36
+//Next employee id will be= 4
+//Next employee id will be= 4
+//Next employee id will be= 4
+//Id= 4
 //Name= Jaggu
 //Age= 16
 //Id= 5
