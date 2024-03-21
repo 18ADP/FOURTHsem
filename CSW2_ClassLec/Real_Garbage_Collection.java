@@ -17,6 +17,9 @@ class Employe{
 	}
 	public void finalize() {
 		--nextId;
+		//In this case
+		//gc will call finalize
+		//for 2 times for 2 objects
 	}
 	
 }
@@ -39,6 +42,7 @@ public class Real_Garbage_Collection {
 			Employe Y=new Employe("Chuggu",26);
 			Y.show();
 			Y.shownextId();
+			//gc call
 			X=Y=null;
 			System.gc();
 			System.runFinalization();
