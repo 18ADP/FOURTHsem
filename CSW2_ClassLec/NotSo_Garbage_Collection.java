@@ -16,7 +16,7 @@ class Employee{
 		System.out.println("Next employee id will be= "+ nextId);
 	}
 }
-public class Garbage_Collection1 {
+public class NotSo_Garbage_Collection {
 
 	public static void main(String[] args) {
 		Employee E=new Employee("Raghu",56);
