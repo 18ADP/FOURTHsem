@@ -30,6 +30,6 @@ public class MinCostJoiningRopes {
         return cost;
     }
 }
-/*
+/*Output:
  * Minimum cost of joining ropes: 33
  */
