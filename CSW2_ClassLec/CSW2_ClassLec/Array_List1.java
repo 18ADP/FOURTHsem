@@ -1,4 +1,4 @@
-package oops;
+package CSW2_ClassLec;
 
 import java.util.ArrayList;
 import java.util.Iterator;

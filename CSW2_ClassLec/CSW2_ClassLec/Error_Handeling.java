@@ -1,4 +1,4 @@
-package oops;
+package CSW2_ClassLec;
 
 public class Error_Handeling {
 

@@ -1,4 +1,4 @@
-package oops;
+package CSW2_ClassLec;
 class MyGen<T>{
 	T obj;
 	void add(T obj)

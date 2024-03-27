@@ -1,4 +1,4 @@
-package oops;
+package CSW2_ClassLec;
 
 class Multiply {
 	static int mult(int a, int b) {
