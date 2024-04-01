@@ -25,7 +25,7 @@ public class Vector2 {
 		else {
 			System.out.println("Tiger is not presenyt in the list.");
 		}
-		// TODO Auto-generated method stub
+		
 		//Get the first list.
 		System.out.println("The first animal in vector is: "+ v.firstElement());
 		//Get the last list.
