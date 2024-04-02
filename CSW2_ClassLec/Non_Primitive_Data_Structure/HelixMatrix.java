@@ -32,7 +32,7 @@ public class HelixMatrix {
        
     }
 }
-/*
+/*OUTPUT:
 1
 2
 3
