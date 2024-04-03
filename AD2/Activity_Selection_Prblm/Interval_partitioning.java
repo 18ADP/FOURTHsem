@@ -1,3 +1,5 @@
+package Activity_Selection_Prblm;
+
 //Write a java code to implement Interval Partitioning using greedy method.
 
 import java.util.*;

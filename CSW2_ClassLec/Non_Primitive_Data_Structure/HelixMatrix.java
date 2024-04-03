@@ -1,3 +1,5 @@
+package Non_Primitive_Data_Structure;
+
 //Print a matrix in helical way:
 public class HelixMatrix {
    
