@@ -13,6 +13,7 @@ class Counter {
     public synchronized int getCount(){
         System.out.println("Synchronized count : "+ count);
         return count;
+        
     }
 }
     public class Synchronization1 {
