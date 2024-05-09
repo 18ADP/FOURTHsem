@@ -36,4 +36,27 @@ class Counter {
     th2.start();
 }
     }
+/*
+OUTPUT:
+Increament count: 1
+Increament count: 2
+Increament count: 3
+Increament count: 4
+Increament count: 5
+Increament count: 6
+Increament count: 7
+Increament count: 8
+Increament count: 9
+Increament count: 10
+Increament count: 11
+Increament count: 12
+Increament count: 13
+Increament count: 1
+Increament count: 15
+Increament count: 16
+Increament count: 17
+Increament count: 18
+Increament count: 19
+Increament count: 20
+ */
 

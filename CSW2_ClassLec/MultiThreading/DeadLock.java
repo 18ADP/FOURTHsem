@@ -37,3 +37,9 @@ public class DeadLock {
     }
     
 }
+/*
+ * Output:
+ * First ThreadFirst Resource is Lockes.
+ *  Second ThreadSecond Resource is Locked.
+ */
+//The program keeps on running.(Deadlock)

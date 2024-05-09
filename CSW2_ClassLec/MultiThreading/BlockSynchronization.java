@@ -41,3 +41,26 @@ class WorkerThread2 extends Thread{
         t.multiplicationTable(40);
     }
 }
+/*
+  Output:
+Worker Thread 1 : 3
+Worker Thread 1 : 6
+Worker Thread 1 : 9
+Worker Thread 1 : 12
+Worker Thread 1 : 15
+Worker Thread 1 : 18
+Worker Thread 1 : 21
+Worker Thread 1 : 24
+Worker Thread 1 : 27
+Worker Thread 1 : 30
+Worker Thread 2 : 40
+Worker Thread 2 : 80
+Worker Thread 2 : 120
+Worker Thread 2 : 160
+Worker Thread 2 : 200
+Worker Thread 2 : 240
+Worker Thread 2 : 280
+Worker Thread 2 : 320
+Worker Thread 2 : 360
+Worker Thread 2 : 400
+ */
