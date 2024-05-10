@@ -1,4 +1,4 @@
-package Activity_Selection_Prblm;
+package AD2.Activity_Selection_Prblm;
 
 //Write a java code to implement Interval Partitioning using greedy method.
 
