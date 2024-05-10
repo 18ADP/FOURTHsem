@@ -1,4 +1,4 @@
-package Lab4;
+package StringBasedALGOs;
 //Brute force algorithm for string search & count the occurence
 
 class Bruteforce

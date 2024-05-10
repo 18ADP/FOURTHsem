@@ -1,4 +1,4 @@
-package Lab2;
+package GraphProblems;
 
 import java.util.*;
 

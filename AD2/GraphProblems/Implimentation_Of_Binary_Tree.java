@@ -1,4 +1,4 @@
-package Lab1;
+package GraphProblems;
 
 public class Implimentation_Of_Binary_Tree {
     public class node {

@@ -1,4 +1,4 @@
-package Lab3;
+package StringBasedALGOs;
 import java.util.*;
 public class Pattern_Matching {
     public static void search(String text, String pattern) {

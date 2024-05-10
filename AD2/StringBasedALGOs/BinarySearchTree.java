@@ -1,4 +1,4 @@
-package Lab4;
+package StringBasedALGOs;
 
 //Implementation of binary search tree to store a string as a key and count the occurence of the word in text.
 

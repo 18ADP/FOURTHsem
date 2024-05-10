@@ -1,4 +1,4 @@
-package Lab2;
+package GraphProblems;
 
 public class Bellman_Ford_Implementation {
     class Edge {

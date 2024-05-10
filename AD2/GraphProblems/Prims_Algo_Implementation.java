@@ -1,4 +1,4 @@
-package Lab1;
+package GraphProblems;
 public class Prims_Algo_Implementation {
 
     private void primMST(int[][] graph) {

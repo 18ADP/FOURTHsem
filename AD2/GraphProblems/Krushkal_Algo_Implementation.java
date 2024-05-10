@@ -1,4 +1,4 @@
-package Lab1;
+package GraphProblems;
 
 import java.util.Arrays;
 

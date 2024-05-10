@@ -1,4 +1,4 @@
-package Lab4;
+package StringBasedALGOs;
 
 class Anagram
 {

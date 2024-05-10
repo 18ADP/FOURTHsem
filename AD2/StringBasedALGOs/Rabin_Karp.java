@@ -1,3 +1,5 @@
+package StringBasedALGOs;
+
 //Rabin-Karp string matching algorithm
 
 import java.util.*;

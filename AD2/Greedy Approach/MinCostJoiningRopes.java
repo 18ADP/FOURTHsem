@@ -1,4 +1,4 @@
-package Activity_Selection_Prblm;
+
 
 /*Write a java code for - Given N number of ropes of various length.
  You need to join these ropes to make a single rope. The cost of 
