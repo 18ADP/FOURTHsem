@@ -1,4 +1,4 @@
-package AD2.Activity_Selection_Prblm;
+package Activity_Selection_Prblm;
 
 //Write a java code to implement Interval Sheduling using greedy approach.
 import java.util.*;
